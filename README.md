@@ -1,24 +1,8 @@
-# Practical 9 & 10
-This folder contains the information about the Practical 9
+# GIT Assignment Project
+Name: Krishna Ramachandra
+ID: 24200269
 
-## Compile
-gcc main_stub.c -o main -lm
-
-## Execute
-./main
-
-### Output for magic:
-
-Enter file name: magic.txt
-No. lines, 3
-M = 15
-This is magic!
-
-### Output for Not
-
-
-Enter file name: not_magic_square.txt
-No. lines, 3
-M = 15
-Row 1 does not sum to 15 (row sum = 6).
-This is not magic
+## About
+This repository contains practicals of every week of study material that we covered in our lectures through week 2-9. 
+All answers are verfied on sciprog and outputs added in the respective README.md files in respective week's folders.
+Proper git workflow was maintained throughout the course and each practical was added with its own branch and merged to main branch.
