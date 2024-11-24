@@ -1,3 +1,0 @@
-## Practical 4
-
-
