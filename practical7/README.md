@@ -1,8 +1,16 @@
 # Practical 7
 
 ## Compile
-gcc e.c -o e
-gcc pointer.c -o pointer
+<ul>
+ <li>
+ gcc e.c -o e 
+ </li>
+ <li>
+  gcc pointer.c -o pointer
+ </li>
+</ul>
+
+
 
 ## Execute
 ./e
