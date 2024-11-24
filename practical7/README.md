@@ -13,8 +13,15 @@
 
 
 ## Execute
-./e
-./pointer
+<ul>
+ <li>
+  ./e
+ </li>
+ <li>
+  ./pointer
+ </li>
+</ul>
+
 
 Output:
 [sp87@sciprog practical07]$ ./e
