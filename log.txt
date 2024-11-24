@@ -1,0 +1,67 @@
+commit 8f7b67c7dd5fae5811590045f5f82bc9529602c5
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 24 16:10:17 2024 +0000
+
+    Added Week 9
+
+commit d39c3b23cd2264b86ec08f91365c4a870d80e627
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 24 15:14:56 2024 +0000
+
+    Added Week 8
+
+commit 0dce31d6c1e85003702f0f57dea95afd5f928bd0
+Merge: 1623fb6 9b22c86
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 24 15:03:11 2024 +0000
+
+    Merge branch 'practical05'
+
+commit 1623fb61ad492d161795c3d0837131169d3f3cbf
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 24 14:48:14 2024 +0000
+
+    Added Practical 7
+
+commit 59e125452a868fd894e456b4e79430db923d5e8b
+Merge: 0d1c303 c44ecd4
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 3 23:59:32 2024 +0000
+
+    Merge branch 'practical06'
+
+commit c44ecd46010b870d4078eb9633030c6bb7df3777
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 3 23:56:38 2024 +0000
+
+    Practical 6 code added
+
+commit 9b22c8660eeca5cec0a7c6bd2ecaa4c4cac8a352
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 3 22:40:09 2024 +0000
+
+    Practical 5 codes added
+
+commit 0d1c30363446dbd5ad1f4c7d148bcda9a5b440c7
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 3 22:19:59 2024 +0000
+
+    Add Practical 4 codes
+
+commit 4ea58a3144746ef18799a25a0a8ddad0f68291d6
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Sun Nov 3 22:09:51 2024 +0000
+
+    Add Practical03 Codes
+
+commit 90bb6c2a1135c70cc0b08ed64e5de3116c8fffeb
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Tue Oct 8 23:43:44 2024 +0100
+
+    Added Practical2 Codes
+
+commit 5797a9665022fd922b3c4073ee9aae576a840812
+Author: krishna-qw <krishnar2251@gmail.com>
+Date:   Tue Oct 8 22:45:20 2024 +0100
+
+    first commit
